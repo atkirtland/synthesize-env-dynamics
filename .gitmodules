@@ -1,0 +1,8 @@
+[submodule "simple_rl"]
+	path = simple_rl
+	url = https://github.com/atkirtland/simple_rl
+	branch = synth-env-dynamics
+[submodule "ec"]
+	path = ec
+	url = https://github.com/atkirtland/ec
+	branch = synth-env-dynamics
